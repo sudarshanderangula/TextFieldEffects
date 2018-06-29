@@ -1,0 +1,6 @@
+framework module Pods_TextFieldEffects {
+  umbrella header "Pods-TextFieldEffects-umbrella.h"
+
+  export *
+  module * { export * }
+}
